@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: རྡོ་རྗེ་འཆང་དངོས་མཁན་ཆེན་མུན་སོལ་མཆོག་གི་ཟབ་གསུང་གཅོས་བསྡུས་དང་། ཉེར་མཁོ་ཁག་ཅིག་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁན་ཆེན་མུན་སོལ།
+  sku: TSD-003
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: The Collected Writings of Khenpo Munsel
+    bo: རྡོ་རྗེ་འཆང་དངོས་མཁན་ཆེན་མུན་སོལ་མཆོག་གི་ཟབ་གསུང་གཅེས་བསྡུས་དང་། ཉེར་མཁོ་ཁག་ཅིག་བཞུགས་སོ།
+  collection:
+    en: Tsadra Publishing–  Book 3
+    bo: ཙཱ་འདྲ་དཔེ་སྐྲུན།–  དེབ། ༣
+  author:
+    en: Khenchen Munsel
+    bo: མཁན་ཆེན་མུན་སེལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-003
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-003.epub
+  description:
+    en: ''
+    bo: ''
