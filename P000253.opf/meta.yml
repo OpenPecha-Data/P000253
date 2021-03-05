@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000253
+initial_creation_type: ebook
+source_metadata:
   title: རྡོ་རྗེ་འཆང་དངོས་མཁན་ཆེན་མུན་སོལ་མཆོག་གི་ཟབ་གསུང་གཅོས་བསྡུས་དང་། ཉེར་མཁོ་ཁག་ཅིག་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁན་ཆེན་མུན་སོལ།
-  sku: TSD-003
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: TSD-003
 web_metadata:
   title:
     en: The Collected Writings of Khenpo Munsel
